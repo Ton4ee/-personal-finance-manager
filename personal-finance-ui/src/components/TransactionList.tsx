@@ -2,7 +2,8 @@ import { useEffect, useState } from 'react'
 import axios from 'axios'
 import type { Transaction } from '../types/Transaction'
 
-const API_URL = 'http://localhost:8080/api/transactions'
+const API_URL = 'https://personal-finance-manager-production-9c7e.up.railway.app/api/transactions'
+
 
 interface Props {
     onEdit: (tx: Transaction) => void

@@ -12,7 +12,8 @@ import {
     ResponsiveContainer
 } from 'recharts'
 
-const API_URL = 'http://localhost:8080/api/transactions'
+const API_URL = 'https://personal-finance-manager-production-9c7e.up.railway.app/api/transactions'
+
 
 interface MonthlyData {
     month: string

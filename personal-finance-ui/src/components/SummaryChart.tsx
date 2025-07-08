@@ -10,7 +10,8 @@ import {
     ResponsiveContainer
 } from 'recharts'
 
-const API_URL = 'http://localhost:8080/api/transactions'
+const API_URL = 'https://personal-finance-manager-production-9c7e.up.railway.app/api/transactions'
+
 
 const COLORS = ['#8884d8', '#82ca9d', '#ffc658', '#ff7f50', '#00c49f', '#ffbb28']
 
