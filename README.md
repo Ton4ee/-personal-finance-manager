@@ -81,12 +81,5 @@ With Filter :
 | **Frontend (React)** | [Vercel](https://vercel.com) |
 | **Backend (Spring Boot + PostgreSQL)** | [Railway](https://railway.app) |
 
-### 📁 Environment Setup
-
-#### Frontend `.env`:
-```env
-VITE_API_BASE_URL=https://personal-finance-manager-production-9c7e.up.railway.app/api
-
-
 
 
